@@ -105,7 +105,7 @@ natasha.forward(150)
 natasha.backward(100)
 
 adam = rg.SimpleTurtle('turtle')
-adam.pen = rg.Pen('pink', 10)
+adam.pen = rg.Pen('purple', 10)
 adam.speed = 2
 
 adam.left(90)
