@@ -41,6 +41,5 @@ for k in range(15):
         ashlyn.left(45)
         ashlyn.pen_down()
         size = size - 12
-
 window.close_on_mouse_click()
 
